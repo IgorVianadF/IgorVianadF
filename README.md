@@ -15,13 +15,12 @@
 
 <div align="center" style="display:flex; justify_content:center; align-items:center;">
 <img 
-style="" 
 src="https://github-readme-stats.vercel.app/api?username=IgorVianadF&show_icons=true&theme=tokyonight">
 <img 
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorVianadF&theme=tokyonight"
-style="">
-
+>
 </div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorVianadF&layout=donut&theme=tokyonight"></div>
 
 ### 🔥💻Tecnologias e skills atuais:
 
