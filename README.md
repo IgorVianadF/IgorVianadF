@@ -2,10 +2,9 @@
 
 ### 📞Contato em:
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div align="center">
  
 <a href="mailto:igorvianacont@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 <a href="https://www.linkedin.com/in/igor-viana-914754230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
