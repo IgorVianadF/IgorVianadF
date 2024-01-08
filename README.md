@@ -1,23 +1,8 @@
 # Igor Viana de França
 
-###  <div align="center">😉Eae, meu nome é Igor, tudo bem?👍</div>
-
-
-
-### 📊Status:
-<div align="center" style="display:flex; justify_content:center; align_items:center">
-<img 
-style="" 
-src="https://github-readme-stats.vercel.app/api?username=IgorVianadF&show_icons=true&theme=tokyonight">
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorVianadF&theme=tokyonight"
-style="">
-</div>
-
-
 ### 📞Contato em:
-<div>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
  
 <a href="mailto:igorvianacont@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
@@ -25,6 +10,20 @@ style="">
 
 </div>
 
+### <div align="center">😉Eae, meu nome é Igor, tudo bem?👍</div>
+
+### 📊Status:
+
+<div align="center" style="display:flex; justify_content:center; align-items:center;">
+<img 
+style="" 
+src="https://github-readme-stats.vercel.app/api?username=IgorVianadF&show_icons=true&theme=tokyonight">
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorVianadF&theme=tokyonight"
+style="">
+
+</div>
 
 ### 🔥💻Tecnologias e skills atuais:
 
